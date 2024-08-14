@@ -126,3 +126,33 @@ Extracting total of 21 Features based on the URL dataset.
 ![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics6.png)
 ![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics7.png)
 
+### 4) Building and Training the Model:
+Before commencing the training of our ML models,we partition the dataset into an 80-20 split, 80% for Training and 20% for Testing. As we scrutinize the dataset, its nature as a supervised machine-learning endeavor becomes evident.
+
+Our objective is to classify URLs, delineating them as either phishing (3), benign (0), defaced (1), or infiltrated by malware (2).
+
+MODELS APPLIED INCLUDE :
+
+- Logistic Regression
+- Random Forest 
+- MLP 
+- XGBoost 
+- CNN
+- Decision Trees
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics8.png)
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics9.png)
+  
+### 5) Model Prediction :
+Evaluating the Models Accuracy and Visualizing the predictions.
+
+## Evaluation and Model Performance
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics10.png)
+
+After splitting the Dataset into 80 by 20 ratio and fitting the models we get all the  Accuracies as :
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics11.png)
+
+
+## Results 
+From the obtained results of the above models,  Random Forest has highest model performance of 92% accuracy . The rest of the Models applied except the CNN have good performance but the Random Forest outperforms from the rest.
+
+

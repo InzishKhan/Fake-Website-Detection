@@ -139,20 +139,41 @@ MODELS APPLIED INCLUDE :
 - XGBoost 
 - CNN
 - Decision Trees
-![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics8.png)
-![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics9.png)
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics8.jpeg)
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics9.jpeg)
   
 ### 5) Model Prediction :
 Evaluating the Models Accuracy and Visualizing the predictions.
 
 ## Evaluation and Model Performance
-![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics10.png)
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics10.gif)
 
 After splitting the Dataset into 80 by 20 ratio and fitting the models we get all the  Accuracies as :
-![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics11.png)
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics11.jpeg)
 
 
 ## Results 
 From the obtained results of the above models,  Random Forest has highest model performance of 92% accuracy . The rest of the Models applied except the CNN have good performance but the Random Forest outperforms from the rest.
+
+## Lessons Learned 
+
+- ### Feature Extraction and Model Evaluation:
+
+  ##### Learned the intricacies of feature extraction, particularly breaking down URLs into their components and extracting meaningful information.
+
+- ### Machine Learning Model:
+
+  ##### Explored various machine learning algorithms   and gained insights into model evaluation metrics such as accuracy, precision, recall, and F1 score.
+
+- ### Dealing with Challenges
+
+  ##### Overcame the challenge of content extraction from URLs by shifting focus to domain and address features when access was denied.
+  ##### Addressed class imbalance in the dataset through techniques like oversampling and undersampling to ensure balanced representation.
+  ##### Successfully fine-tuned machine learning algorithms and optimized hyperparameters to improve model performance. 
+  ##### Utilized techniques such as feature importance ranking and visualization to interpret model results and identify key features for classification.
+  
+## Conclusion 
+Overall, our project underscores the importance of vigilance and proactive measures in safeguarding against online threats. By leveraging machine learning and data-driven approaches, we can empower users and organizations to navigate the digital landscape with confidence and security.This Porject contributes in building a safer web for anyone.
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics12.gif)
 
 

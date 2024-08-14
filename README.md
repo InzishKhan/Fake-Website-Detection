@@ -12,3 +12,21 @@ Phishing attacks have been a persistent threat, with over 300,000 phishing attac
 
 ![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics1.jpeg)
 <img src="https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics2.png" alt="Description" width="1000" height="400">
+
+## Problem Statement 
+
+In the contemporary digital landscape, the proliferation of
+ cyber security threats has become a matter of grave concern for
+ both individuals and institutions. Of the various forms of cyber
+ attacks, phishing stands out as one of the most ubiquitous,
+ wherein attackers employ deceptive tactics to procure sensitive
+ user information like username, password and credit card
+ information by posing as legitimate entities.[[1]](https://www.researchgate.net/publication/345977903_A_Novel_Ensemble_Machine_Learning_Method_to_Detect_Phishing_Attack)
+
+ Currently, there’s a noticeable scarcity of resources
+specifically dedicated to fake website detection, leaving users vulnerable to on-
+line scams and threats.
+
+In order to effectively and precisely identify phishing sites, it is imperative that a better system be created that combines feature engineering, advanced machine learning techniques, and behavioral analysis. The suggested methodology seeks to solve these issues in order to increase online user security, safeguard sensitive data, and promote a safer online environment.
+
+## Introduction 

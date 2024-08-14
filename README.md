@@ -122,4 +122,7 @@ Having IP Address : It checks if the an IP address is placed in the place of the
     Entropy of the URL 
 
 Extracting total of 21 Features based on the URL dataset. 
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics5.png)
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics6.png)
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics7.png)
 

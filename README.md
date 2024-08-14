@@ -175,6 +175,7 @@ From the obtained results of the above models,  Random Forest has highest model 
   
 ## Conclusion 
 Overall, our project underscores the importance of vigilance and proactive measures in safeguarding against online threats. By leveraging machine learning and data-driven approaches, we can empower users and organizations to navigate the digital landscape with confidence and security.This Porject contributes in building a safer web for anyone.
+
 ![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics12.gif)
 
 

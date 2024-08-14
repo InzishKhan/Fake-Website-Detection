@@ -32,3 +32,9 @@ In order to effectively and precisely identify phishing sites, it is imperative 
 ## Introduction 
 ![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics3.gif)
 
+The basic goal of this is to develop an effective fraudulent website detection model that should be able to address these 
+challenges and deliver accurate results within a reasonable time frame. The contribution 
+proposes a fraudulent website detection model based on sentiment analysis of textual 
+contents (URLS and HTML) of a given website and supervised machine learning techniques.
+
+Further in the upcoming sections we are going to explain in more detail every modeule giving a breif overlook of all the steps done in the code and what problems were being faced during the execution of our model.

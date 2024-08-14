@@ -30,3 +30,5 @@ line scams and threats.
 In order to effectively and precisely identify phishing sites, it is imperative that a better system be created that combines feature engineering, advanced machine learning techniques, and behavioral analysis. The suggested methodology seeks to solve these issues in order to increase online user security, safeguard sensitive data, and promote a safer online environment.
 
 ## Introduction 
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics3.gif)
+

@@ -38,3 +38,14 @@ proposes a fraudulent website detection model based on sentiment analysis of tex
 contents (URLS and HTML) of a given website and supervised machine learning techniques.
 
 Further in the upcoming sections we are going to explain in more detail every modeule giving a breif overlook of all the steps done in the code and what problems were being faced during the execution of our model.
+
+## Roadmap
+
+- Dataset regarding malicious URLS is collected from open-source platform eg. Kaggle 
+
+- Performing Data Analysis and applying EDA Techniques
+- Dividing the dataset into Train-Test split 
+- Applying Supervised Machine Learning and  Deep Learning Models like Logistic Regression, SVM,Random Forest, 
+- Evaluating the models using the Performance Metrics and unveiling the magic of data through colorful Visualization plots.
+- Concluding the results by comparing the Applied Models.
+

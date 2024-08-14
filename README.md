@@ -73,3 +73,53 @@ Our Dataset contains 651191 rows that includes 2 columns one holds the URL's and
     Malware :: URLs inject harmful software into a victim’s system upon accessing the URL
 
 ### Visualizing Target Class turning it into insight!
+![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics4.png)
+
+### 3) Feature Engeneering:
+Candidly, our initial foray into content-based URL detection led us down an enlightening path. However, we encountered a couple of stumbling blocks along the way. Firstly, the reluctance of numerous websites to permit content extraction or web scraping posed a formidable challenge. Secondly, we faced a critical deficit in the necessary infrastructure to safeguard against potential viruses from the sites we were attempting to scrape. This posed a significant concern, as our system risked exposure to malware, phishing, and defacement—a trifecta of perilous categories. Safeguarding against these digital dangers became paramount in our pursuit of effective URL detection.
+
+So we moved our exploration for feature Extraction on the basis of URL Domain and Address Bar :
+Having IP Address : It checks if the an IP address is placed in the place of the domain name in the URL. as it is common technique used by cyberattackers to conceal their identities
+
+    Abnormal URLS 
+
+    Google Index 
+
+    Count dot 
+
+    Count www 
+
+    Count @ 
+
+    Count directories 
+
+    Count Embed Domain 
+
+    Doubtful Words 
+
+    Short URLs 
+
+    Count https
+
+    Count http 
+
+    Count % 
+
+    Count ? 
+
+    Count - 
+
+    Count = 
+
+    URL Length 
+
+    Hostname Length 
+
+    First Directory Length 
+
+    Length of Top Level Domains 
+
+    Entropy of the URL 
+
+Extracting total of 21 Features based on the URL dataset. 
+

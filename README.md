@@ -149,6 +149,7 @@ Evaluating the Models Accuracy and Visualizing the predictions.
 ![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics10.gif)
 
 After splitting the Dataset into 80 by 20 ratio and fitting the models we get all the  Accuracies as :
+
 ![](https://github.com/InzishKhan/Fake-Website-Detection/blob/main/pics11.jpeg)
 
 

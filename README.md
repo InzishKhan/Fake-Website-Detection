@@ -49,3 +49,27 @@ Further in the upcoming sections we are going to explain in more detail every mo
 - Evaluating the models using the Performance Metrics and unveiling the magic of data through colorful Visualization plots.
 - Concluding the results by comparing the Applied Models.
 
+## Approach
+### 1) Installed Libraries:
+    Tensoflow
+    Numpy
+    Pandas
+    SciKit-Learn
+    plotly
+    Seaborn
+    Tld
+    URL Parser
+
+
+### 2) Data Exploration:
+Our Dataset contains 651191 rows that includes 2 columns one holds the URL's and the other includes it's Labels . Labels column includes 4 categories :
+
+    Benign :: URLs refer to safe-to-browse websites
+
+    Defacement :: URLs which created by hackers with the intent to replace the original hosted website with its own content
+
+    Phishing :: URLs aim to steal sensitive information such as login credentials and financial data
+
+    Malware :: URLs inject harmful software into a victim’s system upon accessing the URL
+
+### Visualizing Target Class turning it into insight!
